@@ -41,7 +41,6 @@ A webhook failure does not undo a saved lead. The capture response reports `auto
 | `backend/` | Python FastAPI service, validation, Supabase insert, and n8n webhook client |
 | `CoolBreeze Dashboard/dashboard/` | Next.js, React, TypeScript, and Tailwind lead desk |
 | `HVAC Lead Response Demo.png` | Demo image |
-| `solar-companies/` | Separate Helio solar website concept; its form is a local preview and is not connected to the HVAC backend |
 
 ## Requirements
 
